@@ -4,3 +4,4 @@ Git has mutable index called stage.
 Git tracks changes of files
 Creating a new branch is quick and simple.
 git checkout -b dev
+git checkout -b dev_wz
