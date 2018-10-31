@@ -7,3 +7,8 @@ git checkout -b dev
 git checkout -b dev_wz
 git stash ,understand how to use stash
 git stash test again
+
+
+
+git is good to ues , the advantage of git is branch.
+I'm here learing git very night when I come back home
