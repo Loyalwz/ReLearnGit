@@ -7,3 +7,5 @@ git checkout -b dev
 git checkout -b dev_wz
 git stash ,understand how to use stash
 git stash test again
+
+I'm in the master branch fixing bug
